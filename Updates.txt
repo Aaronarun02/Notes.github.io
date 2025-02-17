@@ -1,0 +1,303 @@
+Complete SQL road map 
+👇👇
+
+1.Intro to SQL
+•  Definition
+•  Purpose 
+•  Relational DBs 
+•  DBMS
+
+2.Basic SQL Syntax
+•  SELECT
+•  FROM
+•  WHERE 
+•  ORDER BY
+•  GROUP BY 
+
+3. Data Types
+•  Integer
+•  Floating-Point
+•  Character
+•  Date
+•  VARCHAR 
+•  TEXT 
+•  BLOB
+•  BOOLEAN
+
+4.Sub languages
+•  DML
+•  DDL
+•  DQL
+•  DCL
+•  TCL
+
+5. Data Manipulation
+•  INSERT
+•  UPDATE 
+•  DELETE 
+
+6. Data Definition 
+•  CREATE 
+•  ALTER  
+•  DROP 
+•  Indexes
+
+7.Query Filtering and Sorting
+•  WHERE 
+•  AND
+•  OR Conditions
+•  Ascending
+•  Descending
+
+8. Data Aggregation 
+•  SUM
+•  AVG
+•  COUNT
+•  MIN
+•  MAX
+
+9.Joins and Relationships
+•  INNER JOIN 
+•  LEFT JOIN 
+•  RIGHT JOIN
+•  Self-Joins
+•  Cross Joins
+•  FULL OUTER JOIN
+
+10.Subqueries
+•  Subqueries used in 
+•  Filtering data
+•  Aggregating data 
+•  Joining tables
+•  Correlated Subqueries
+
+11.Views
+•  Creating 
+•  Modifying 
+•  Dropping Views
+
+12.Transactions
+•  ACID Properties
+•  COMMIT
+•  ROLLBACK
+•  SAVEPOINT
+•  ROLLBACK TO SAVEPOINT
+
+13.Stored Procedures
+•  CREATE PROCEDURE
+•  ALTER PROCEDURE
+•  DROP PROCEDURE
+•  EXECUTE PROCEDURE
+•  User-Defined Functions (UDFs)
+
+14.Triggers
+•  Trigger Events 
+•  Trigger Execution and Syntax
+
+15. Security and Permissions
+•  CREATE USER
+•  GRANT
+•  REVOKE
+•  ALTER USER
+•  DROP USER
+
+16.Optimizations 
+•  Indexing Strategies
+•  Query Optimization 
+
+17.Normalization
+•  1NF(Normal Form)
+•  2NF
+•  3NF
+•  BCNF
+
+18.Backup and Recovery
+•  Database Backups
+•  Point-in-Time Recovery
+
+19.NoSQL Databases
+•  MongoDB
+•  Cassandra etc...
+•  Key differences
+
+20. Data Integrity
+•  Primary Key
+•  Foreign Key
+
+21.Advanced SQL Queries
+•  Window Functions
+•  Common Table Expressions (CTEs)
+
+22.Full-Text Search
+•  Full-Text Indexes
+•  Search Optimization
+
+23. Data Import and Export
+•  Importing Data 
+•  Exporting Data (CSV, JSON)
+•  Using SQL Dump Files
+
+24.Database Design
+•  Entity-Relationship Diagrams
+•  Normalization Techniques
+
+25.Advanced Indexing
+•  Composite Indexes
+•  Covering Indexes
+
+26.Database Transactions
+•  Savepoints 
+•  Nested Transactions
+•  Two-Phase Commit Protocol
+
+27.Performance Tuning
+•  Query Profiling and Analysis
+•  Query Cache Optimization
+
+------------------ END -------------------
+
+Some good resources to learn SQL 
+
+1.Tutorial & Courses
+• Learn SQL: https://bit.ly/3FxxKPz
+• Udacity: imp.i115008.net/AoAg7K
+
+2. YouTube Channel's 
+• FreeCodeCamp:rb.gy/pprz73
+• Programming with Mosh: rb.gy/g62hpe
+
+3. Books 
+• SQL in a Nutshell: https://t.me/DataAnalystInterview/158
+
+4. SQL Interview Questions
+https://t.me/sqlanalyst/72?single
+
+Like for more ❤
+
+ENJOY LEARNING 👍👍
+
+
+Cloud Computing Roadmap
+|
+|-- Fundamentals
+|   |-- Introduction to Cloud Computing
+|   |   |-- Cloud Models (IaaS, PaaS, SaaS)
+|   |   |-- Cloud Deployment Models (Public, Private, Hybrid)
+|   |   |-- Virtualization Concepts
+|
+|-- Cloud Platforms
+|   |-- Amazon Web Services (AWS)
+|   |   |-- EC2, S3, IAM, Lambda
+|   |   |-- AWS Networking and VPC
+|   |   |-- AWS Elastic Beanstalk
+|   |
+|   |-- Microsoft Azure
+|   |   |-- Azure Compute Services (VMs, Functions, App Services)
+|   |   |-- Azure Storage (Blob, SQL)
+|   |   |-- Azure Active Directory
+|   |
+|   |-- Google Cloud Platform (GCP)
+|   |   |-- Compute Engine, App Engine
+|   |   |-- Google Cloud Storage
+|   |   |-- BigQuery
+|
+|-- Cloud Computing Services
+|   |-- Cloud Storage
+|   |   |-- Object Storage (S3, Google Cloud Storage)
+|   |   |-- Block Storage (EBS, Azure Disk Storage)
+|   |
+|   |-- Compute Resources
+|   |   |-- Virtual Machines (VMs)
+|   |   |-- Containers and Kubernetes
+|   |   |-- Serverless Computing (Lambda, Azure Functions)
+|
+|-- Networking and Security
+|   |-- Cloud Networking
+|   |   |-- Virtual Private Cloud (VPC)
+|   |   |-- Load Balancers
+|   |   |-- Cloud DNS
+|   |
+|   |-- Cloud Security
+|   |   |-- Identity and Access Management (IAM)
+|   |   |-- Encryption (In-Transit, At-Rest)
+|   |   |-- Security Best Practices
+|
+|-- Cloud Automation and DevOps
+|   |-- Infrastructure as Code
+|   |   |-- AWS CloudFormation
+|   |   |-- Terraform
+|   |-- CI/CD in the Cloud
+|   |   |-- Jenkins, GitLab CI, AWS CodePipeline
+|   |-- Containerization and Orchestration
+|   |   |-- Docker
+|   |   |-- Kubernetes
+|
+|-- Cloud Monitoring and Optimization
+|   |-- Monitoring Tools
+|   |   |-- AWS CloudWatch
+|   |   |-- Azure Monitor
+|   |-- Cost Management
+|   |   |-- AWS Cost Explorer
+|   |   |-- Google Cloud Billing
+|
+|-- Advanced Topics
+|   |-- AI and Machine Learning in Cloud
+|   |   |-- AWS SageMaker
+|   |   |-- Azure Machine Learning
+|   |-- Edge Computing
+|   |   |-- AWS Greengrass
+|   |-- Cloud Security Architectures
+
+FREE COURSES TO LEARN CLOUD COMPUTING👇👇
+
+Intro to Cloud Computing FREE UDACITY COURSE
+
+https://imp.i115008.net/2rXxJM
+
+Introduction to Cloud Computing FREE UDEMY COURSE
+
+https://bit.ly/3sGKjkA
+
+Free AWS Certified Cloud Practitioner 2019
+
+https://bit.ly/3GMG9wJ
+
+Handbook of Cloud Computing
+
+https://studytm.files.wordpress.com/2014/03/hand-book-of-cloud-computing.pdf
+
+Google Cloud Computing FREE COURSE
+
+https://inthecloud.withgoogle.com/cloud-learning-paths-22/register.html
+
+Cloud Computing for Dummies FREE BOOK
+
+https://github.com/manjunath5496/AWS-Books/blob/master/azw(12).pdf
+
+ENJOY LEARNING 👍👍
+
+
+Want to practice for your next interview?
+
+Then use this prompt and ask Chat GPT to act as an interviewer 😄👇 (Tap to copy)
+
+I want you to act as an interviewer. I will be the 
+candidate and you will ask me the 
+interview questions for the position position. I 
+want you to only reply as the interviewer. 
+Do not write all the conservation at once. I 
+want you to only do the interview with me. 
+Ask me the questions and wait for my answers. 
+Do not write explanations. Ask me the 
+questions one by one like an interviewer does 
+and wait for my answers. My first 
+sentence is "Hi"
+
+Now see how it goes. All the best for your preparation 
+Like this post if you need more content like this👍❤️
+
+Dont invest here (2024 analysis):
+Aditya Birla SL Small Cap Fund loss of 42.31%, Tata Small Cape Fun loss of 41.82%. Trust MF Small Cape Fund has fallen 40%.
+11 funds have lost 35% or more: Nippan India Small Cape Fund, Union Small Cap Fund, HSBC Small Cap Fund, LIC MF Small Cap Fund, Bank of India Small Cap Fund,
+Baroda BNP Small Cap Fund, Kanara Robago Small Cape Fund, SBI Small Cap Fund, Quant Small Cap Fund, Kodak Small Cap Fund and JM Small Cap Fund
+
